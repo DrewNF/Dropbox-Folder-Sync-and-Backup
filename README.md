@@ -3,8 +3,9 @@
 
 1. **[Incipit](#1Incipit);**
 2. **[Brief Description](#2brief-description);**
-3. **[State of the Project](#3state-of-the-project)**
-4. **[Copyright](#4copyright)**
+3. **[Requirements](#3requirements);**
+4. **[State of the Project](#4state-of-the-project)**
+5. **[Copyright](#5copyright)**
 
 ## 1.Incipit
 
@@ -21,10 +22,14 @@ The app routine is so implemented:
 - The remote Server stores the files and create a versioning system using a SQLite database, waiting further changes;
 - The Client can ask an old version of each file to the Server.
 
-## 3.State of the Project
+## 4.Requirements
+- Visual Studio 2013 or newer;
+- SQLite pakages;
+
+## 4.State of the Project
 - No further Mantained
 
-## 4.Copyright
+## 5.Copyright
 
 - According to the LICENSE file of the original code,
 - Me and original author hold no liability for any damages;
