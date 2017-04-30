@@ -4,8 +4,8 @@
 1. **[Incipit](#1Incipit);**
 2. **[Brief Description](#2brief-description);**
 3. **[Requirements](#3requirements);**
-4. **[State of the Project](#4state-of-the-project)**
-5. **[Copyright](#5copyright)**
+4. **[State of the Project](#4state-of-the-project);**
+5. **[Copyright](#5copyright).**
 
 ## 1.Incipit
 
@@ -22,7 +22,7 @@ The app routine is so implemented:
 - The remote Server stores the files and create a versioning system using a SQLite database, waiting further changes;
 - The Client can ask an old version of each file to the Server.
 
-## 4.Requirements
+## 3.Requirements
 - Visual Studio 2013 or newer;
 - SQLite pakages;
 
